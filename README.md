@@ -23,7 +23,7 @@ Built a machine learning solution to detect fraudulent transactions using user a
 - Final stacked model achieved high accuracy while maintaining reasonable fraud recall, a critical factor in fraud analysis.
 
 ### 5. Data Visualization
-- Designed a [Power BI dashboard](https://drive.google.com/file/d/1K-T2QBv9jTYWYXYg_y6Dd98tIAGQ5w-c/view?usp=drive_link) to provide real-time insights into:
+- Designed a [Power BI dashboard](https://github.com/user-attachments/assets/b7f11b28-b157-4e68-8a11-5fd28d44a016) to provide real-time insights into:
     - Fraud volume and amount across transaction types
     - High-risk accounts and the largest fraudulent transactions
     - Fraud transaction frequency over hourly time steps
@@ -48,6 +48,9 @@ Built a machine learning solution to detect fraudulent transactions using user a
 
 - The final stacking classifier achieved 99.97% accuracy, with a strong performance in identifying fraudulent transactions.
 - Although fraud cases were rare, the model captured 68% of fraud instances, a major improvement over baseline.
+
+  ![image](https://github.com/user-attachments/assets/b7f11b28-b157-4e68-8a11-5fd28d44a016)
+
   
 ## How to Use
 
