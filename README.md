@@ -46,7 +46,7 @@ Built a machine learning solution to detect fraudulent transactions using user a
 
 ## Output
 
-- The final stacking classifier achieved 99.97% accuracy, with a strong performance in identifying fraudulent transactions.
+- The final stacking classifier achieved 99.77% accuracy, with a strong performance in identifying fraudulent transactions.
 - Although fraud cases were rare, the model captured 68% of fraud instances, a major improvement over baseline.
 
  ![image](https://github.com/user-attachments/assets/5982510f-894c-40c6-bbc9-2f2790694fdd)
