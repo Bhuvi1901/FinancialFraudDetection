@@ -29,6 +29,9 @@ Built a machine learning solution to detect fraudulent transactions using user a
     - Fraud transaction frequency over hourly time steps
     - Transaction types most associated with fraud, via interactive treemaps 
       and donut charts
+
+
+ ![image](https://github.com/user-attachments/assets/5982510f-894c-40c6-bbc9-2f2790694fdd)
   
 ## Technologies Used
 
@@ -48,8 +51,6 @@ Built a machine learning solution to detect fraudulent transactions using user a
 
 - The final stacking classifier achieved 99.77% accuracy, with a strong performance in identifying fraudulent transactions.
 - Although fraud cases were rare, the model captured 68% of fraud instances, a major improvement over baseline.
-
- ![image](https://github.com/user-attachments/assets/5982510f-894c-40c6-bbc9-2f2790694fdd)
 
 
   
